@@ -4,7 +4,6 @@ import subprocess
 import argparse
 import sys
 import pyfiglet
-from rich import print
 from typing import DefaultDict
 
 title = pyfiglet.figlet_format('WEBDL Script', font='slant')
